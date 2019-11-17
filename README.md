@@ -1,0 +1,4 @@
+To Start Application
+```
+nodemon
+```
